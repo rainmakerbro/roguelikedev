@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# stuff I don't think should be on the repo?
+.vscode/
+Include/
+Scripts/
+pyvenv.cfg
